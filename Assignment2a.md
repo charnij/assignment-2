@@ -21,11 +21,11 @@ Problem 1
 2. 	Find the average cost function and the marginal cost for each of the two methods.  
 
 	**Method 1** :   
-Average cost: $(\frac{(200+1x)}{x})$  
+Average cost: $\frac{(200+1x)}{x}$  
 Marginal cost: $MC(x)= 1$
 
 	**Method 2** :   
-Average cost: $(\frac{(40 + 5x)}{x})$ 
+Average cost: $\frac{(40 + 5x)}{x}$   
 Marginal cost: $MC(x)= 5$
 
 
@@ -46,9 +46,10 @@ $80 * 20 – (150 + 2 * 20^2) = 650$
 2. 	Below which price does the firm shut down (stops to produce in the short run)?  
 
 The firm will shut down when $$P<AVC$$.  
-AVC= $$\frac{150}{q}$$ $$+ 2q$$  
+AVC= $\frac{150}{q}$ $$+ 2q$$  
 **So, the firm shuts down when**  
-$P<\frac{150}{20} + 2*20$, thus $$P<47,5$$
+$P$< $\frac{150}{20}$ $+ 2*20$,   
+thus $$P<47,5$$
 
 
 

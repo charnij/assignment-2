@@ -6,7 +6,11 @@
 Problem 1
 =========
 
-*Consider the owner of a small lawn-mowing service. She can use one of two methods to mow lawns. Method 1 is to purchase a tractor that costs €200 a year to own and then spend €1 (for labor and gas) for every acre of grass cut. Method 2 is to spend €40 on a used push mower that will last one year and then spend €5 (for labor) for every acre of grass cut.*  
+The problem
+----------
+
+* Consider the owner of a small lawn-mowing service. She can use one of two methods to mow lawns. Method 1 is to purchase a tractor that costs €200 a year to own and then spend €1 (for labor and gas) for every acre of grass cut. Method 2 is to spend €40 on a used push mower that will last one year and then spend €5 (for labor) for every acre of grass cut.  
+
 -----------
 
 1. Write down the total cost functions for the two methods, letting x represent the number of acres of grass cut per year.   
@@ -32,7 +36,11 @@ Marginal cost: $MC(x)= 5$
 Problem 2
 ============
 
-*Consider a perfectly competitive firm with short-run total costs of $$150 + 2q^2$$.*
+The Problem
+--------
+
+* Consider a perfectly competitive firm with short-run total costs of $$150 + 2q^2$$.
+
 ----------
 
 1. If the market price is €80, how much output will the firm produce and what will be the firm’s profits?  
@@ -48,9 +56,9 @@ $80 * 20 – (150 + 2 * 20^2) = 650$
 2. 	Below which price does the firm shut down (stops to produce in the short run)?  
 
 The firm will shut down when $$P<AVC$$.  
-ACV= $$(\frac{150}{q}) + 2q$$  
+ACV= $$\frac{150}{q} + 2q$$  
 **So, the firm shuts down when**  
-$$P<(\frac{150}{20} + 2*20$$, thus $$P<47,5$$
+$$P<\frac{150}{20} + 2*20$$, thus $$P<47,5$$
 
 
 
